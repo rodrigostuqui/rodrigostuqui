@@ -29,10 +29,6 @@
 
 <br/>
 
-<a href="https://github.com/rodrigostuqui" title="Perfil do Rodrigo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigostuqui&theme=dracula&show_icons=true" />
-</a>
-
 <h3>Onde me encontrar</h3>
 
 [![Linkedin](https://img.shields.io/badge/-Rodrigo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/rodrigo-monzani-2903b6203)](www.linkedin.com/in/rodrigo-monzani-2903b6203)
